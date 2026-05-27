@@ -24,6 +24,8 @@ python3 run.py examples/scenarios/medical_safety_claim.md \
 
 Use when a draft claim may be outrunning its evidence.
 
+Note: the Humility Engine synthetic medical-safety scenario keeps the draft claim and structured evidence notes in the same Markdown file, so the command uses the same path for `input` and `--evidence`.
+
 ## Evidence Floor
 
 ```bash

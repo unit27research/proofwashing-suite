@@ -61,7 +61,7 @@ Proofwashing Suite gives a public map for:
 - choosing the right claim-review instrument
 - preserving evidence boundaries in public claims
 - distinguishing evidence floor, evidence freshness, caveat retention, and draft drift
-- running a synthetic end-to-end review sequence
+- walking through a synthetic end-to-end review sequence
 - keeping the suite boundary visible before release
 
 ## What It Does Not Do
