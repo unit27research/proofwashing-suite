@@ -14,4 +14,4 @@ This checklist records the public-release gate for the initial Proofwashing Suit
 - [x] `bash scripts/verify-package.sh` passes.
 - [x] MIT license present.
 - [x] CI workflow present.
-- [x] Joshua approved remote repo creation, push, and profile README update.
+- [x] Maintainer approval was recorded before remote repo creation, push, and profile README update.
